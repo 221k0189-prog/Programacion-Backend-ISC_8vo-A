@@ -1,0 +1,27 @@
+{
+    "ip": "45.235.253.114",
+    "isp": {
+        "asn": "AS265550",
+        "org": "BUENAS NOTICIAS SA DE CV",
+        "isp": "Buenas Noticias SA De CV"
+    },
+    "location": {
+        "country": "Mexico",
+        "country_code": "MX",
+        "city": "Bacalar",
+        "state": "Quintana Roo",
+        "zipcode": "",
+        "latitude": 18.696978368773063,
+        "longitude": -88.40644073917179,
+        "timezone": "America/Cancun",
+        "localtime": "2026-03-18T06:09:48"
+    },
+    "risk": {
+        "is_mobile": false,
+        "is_vpn": false,
+        "is_tor": false,
+        "is_proxy": false,
+        "is_datacenter": false,
+        "risk_score": 0
+    }
+}
