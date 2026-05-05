@@ -8,7 +8,7 @@ const puerto = 3000;
 
 //  Middlewares
 app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
+app.use(express.urlencoded({ extended: true })
 app.use(express.static('public'));
 
 //Ruta principal
